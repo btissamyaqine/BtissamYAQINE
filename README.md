@@ -2,7 +2,9 @@
 
 **btissamyaqine/BtissamYAQINE** 
 
-I'am a passionate young web developer 👯 from morocco, I love coding ❤️ and all things IT, I have been working with MERN Stack since i fell in love with javaScrit in 2020 and other modern web frameworks, I'm on track with learning more about new technologies, and, For me stop learning like the effect of death ⚡, At the present time, I like social work and i work as official website webmaster at ARCS france, Also i work on innovative websites. You can check out my web site <a href="https://btissamyaqine.github.io/">btissam yaqine </a>, You can also Download  [my resume](BtissamYAQINE-CV-EN.pdf?raw=true)
+👩‍💻 IT Professional | Microsoft 365 | Azure | Teams | Entra ID | PowerShell
+
+I'm an IT professional from Morocco with a background in Web Development and JavaScript. Passionate about technology, cloud, and problem-solving, I continuously learn and explore new technologies to grow my expertise and build better IT solutions. ⚡
 
 
 ## 📈 My Github Status
